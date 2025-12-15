@@ -6,11 +6,11 @@
 
 - Styling & Components:
 
- - Bootstrap 5.3: Used for the main image carousel on the vehicles.html page.
+  - Bootstrap 5.3: Used for the main image carousel on the vehicles.html page.
 
- - Swiper.js: Used for the smooth customer review slider on reviews.html.
+  - Swiper.js: Used for the smooth customer review slider on reviews.html.
 
- - Font Awesome: Provides all icons used for services and vehicle metadata.
+  - Font Awesome: Provides all icons used for services and vehicle metadata.
 
 ✨ Core Features
 - Vehicle Showcase (vehicles.html): Displays featured car models with detailed meta-information (seats, fuel type, price).
